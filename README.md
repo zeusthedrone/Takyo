@@ -1,5 +1,5 @@
 # Takyo
-![Takyo](takyo4.jpg)
+![Takyo](takyo.jpg)
 ## Sensors
 * Ultrasonic Sensor            - MB1040
 * 2 Infrared Sensors           - GP2Y0A21YK0F
