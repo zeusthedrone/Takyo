@@ -10,7 +10,7 @@
 * Raspberry Pi Zero W 
 ## Data Generator
 Takyo generates the following data for Classification.
-Column indexes to lower: 
+The actual data is in rlog1.csv.
 * org     - The original sensor hit
 * compss  - Current compass reading
 * pitch   - Pitch
