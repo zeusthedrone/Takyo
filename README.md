@@ -46,3 +46,6 @@ A classification network is configured to determine which way the robot should t
 Actual predictions ranged from 92-98% in 30-50 epochs. The model may be overfitting too early. This is my first attempt at classification using self generated data. Though I tried to predict dturn or "turn delay time" using regression it failed. A more complete model would predict both the direction to turn and the turn arc in degrees.
 
 Compass headings are inaccurate indoors. Mapping is possible outdoors where the compass works normally. 
+
+## Reference
+Takyo_classification.ipynb Jupyter notebook was used for Classification and contains the testing results. This is not an interactive notebook.
