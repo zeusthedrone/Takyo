@@ -27,12 +27,12 @@ The actual data is in rlog1.csv.
 * ddir    - Decision Turn Type (ddir is what we are trying to predict)
 ## Predictions and Model
 A classification network is configured to determine which way the robot should turn. rlog1.csv is used for training, and validation. The output is a classification of Turn Type. Listed below:
-* 0LF - left turn simple
-* 0RT - right turn
-* 1LF - left turn slightly larger arc
-* 1RT - right turn slightly larger arc
+* 0LF - left turn 1 sensor hit
+* 0RT - right turn 1 sensor hit
+* 1LF - left turn 2 sensors hit
+* 1RT - right turn 2 sensors hit
 * CLF - left turn after "Clear to Go"
-* CCT - go forward no turn after Clear to go
+* CCT - go forward no turn after "Clear to go"
 * CRT - right turn after "Clear to go"
 * ALF - left turn averages were used
 * ART - right turn averages were used
@@ -40,4 +40,4 @@ A classification network is configured to determine which way the robot should t
 * SRT - right turn random arc
 * FWD - decision to go straight forward
 
-Clear to Go is an event that happens when no sensors are hit for some period of time 10-20 seconds. This can also be considered a "reward" in training, or good behaviour.
+"Clear to Go" or "CTG" is an event that happens when no sensors are hit for some period of time 10-20 seconds. This can also be considered a "reward" in training, or good behaviour.
