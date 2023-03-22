@@ -49,6 +49,7 @@ Compass headings are inaccurate indoors. Mapping is possible outdoors where the 
 
 ## Video
 ![Takyo Video](takyo.mov)
+
 [Takyo on Youtube](https://www.youtube.com/watch?v=0TxFcdLs24w)
 
 ## Reference
