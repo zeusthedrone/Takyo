@@ -21,8 +21,8 @@ Column indexes to lower:
 * rht     - Sensor value at time of hit
 * lastlft - Time since last hit (maximum 10000 ms)
 * lastrht - Time since last hit
-* lftavg  - Average times since last hit (mean)
-* rhtavg  - Average times since last hit (mean)
+* lftavg  - Average times since last hit (mean - average of last 20 hits)
+* rhtavg  - Average times since last hit (mean - average of last 20 hits)
 * dturn   - Decision Turn delay - this column is dropped 
 * ddir    - Decision Turn Type (ddir is what we are trying to predict)
   
