@@ -39,4 +39,5 @@ A classification network is configured to determine which way the robot should t
 * SLF - left turn random arc - this is the absolute fall back when no decision can be made
 * SRT - right turn random arc
 * FWD - decision to go straight forward
+
 Clear to Go is an event that happens when no sensors are hit for some period of time 10-20 seconds. This can also be considered a "reward" in training, or good behaviour.
