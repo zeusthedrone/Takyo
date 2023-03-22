@@ -48,8 +48,6 @@ Actual predictions ranged from 92-98% in 30-50 epochs. The model may be overfitt
 Compass headings are inaccurate indoors. Mapping is possible outdoors where the compass works normally. 
 
 ## Video
-![Takyo Video](takyo.mov)
-
 [Takyo on Youtube](https://www.youtube.com/watch?v=0TxFcdLs24w)
 
 ## Reference
