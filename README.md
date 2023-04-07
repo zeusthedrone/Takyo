@@ -52,6 +52,8 @@ Compass headings are inaccurate indoors. Mapping is possible outdoors where the 
 ## Snapshot
 ![Training Epochs](Takyo figure1.png)
 
+![Takyo](takyo.jpg)
+
 ![Confusion Matrix](Takyo figure2.png)
 
 
