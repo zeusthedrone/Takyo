@@ -20,9 +20,9 @@ Takyo generates the following input data for Classification. (rlog1.csv)
 * pitch   - Pitch
 * roll    - Roll
 * cliff   - Edge detection, also called Cliff, also called TOF
-* lft     - Sensor value at time of hit
-* ctr     - Sensor value at time of hit
-* rht     - Sensor value at time of hit
+* lft     - Left sensor value at time of hit
+* ctr     - Center sensor value at time of hit
+* rht     - Right sensor value at time of hit
 * lastlft - Time since last hit (maximum 10000 ms)
 * lastrht - Time since last hit
 * lftavg  - Average times since last hit (mean - average of last 20 hits)
@@ -55,7 +55,7 @@ Compass headings are inaccurate indoors. Mapping is possible outdoors where the 
 [Takyo on Youtube](https://www.youtube.com/watch?v=0TxFcdLs24w)
 
 ## Reference
-READ THE NOTEBOOK! Takyo_classification.ipynb Jupyter notebook was used for Classification and contains the testing results. This is a read only notebook.
+READ THE NOTEBOOK! READ THE NOTEBOOK! Takyo_classification.ipynb Jupyter notebook was used for Classification and contains the testing results. This is a read only notebook.
 ![Takyo_classification.ipynb](https://github.com/zeusthedrone/Takyo/blob/main/Takyo_classification.ipynb)
 
 ## Training Snapshot
