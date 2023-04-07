@@ -1,7 +1,7 @@
 # This program runs on demand not concurrently on a Raspberry Pi Zero W. 
 # It captures the serial output from the Arduino and writes it to an sd card
 # The rlog1.csv is later transferred in batch using FTP to a larger computer
-# where Classification is performed.
+# where Classification is performed. zeusthedrone@gmail.com
 import serial
 import os
 ser = serial.Serial('/dev/ttyUSB0', 115200, timeout=5)
