@@ -49,17 +49,13 @@ Compass headings are inaccurate indoors. Mapping is possible outdoors where the 
 ## Video
 [Takyo on Youtube](https://www.youtube.com/watch?v=0TxFcdLs24w)
 
-## Snapshot
-![Training Epochs](Takyo figure1.png)
+## Training Validation Snapshot
+![Training Epochs](takyofigure1.jpg)
 
-![Takyo](takyo.jpg)
-
-![Confusion Matrix](Takyo figure2.png)
-
-
+![Confusion Matrix](takyofigure2.jpg)
 
 ## Reference
-Takyo_classification.ipynb Jupyter notebook was used for Classification and contains the testing results. This is not an interactive notebook.
+READ THE NOTEBOOK: Takyo_classification.ipynb Jupyter notebook was used for Classification and contains the testing results. This is not an interactive notebook.
 ![Takyo_classification.ipynb](https://github.com/zeusthedrone/Takyo/blob/main/Takyo_classification.ipynb)
 
 
