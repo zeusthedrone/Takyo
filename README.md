@@ -1,5 +1,8 @@
 # Takyo
 ![Takyo](takyo.jpg)
+
+Takyo creates training data using programming logic statements. Output sensor data is trained and validated using Tensorflow. When the trained model is loaded back to Takyo decisions are made based on inference rather than programming logic.
+
 ## Sensors
 * Ultrasonic Sensor            - MB1040
 * 2 Infrared Sensors           - GP2Y0A21YK0F
