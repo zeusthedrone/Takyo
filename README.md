@@ -9,8 +9,7 @@
 * Arduino Nano
 * Raspberry Pi Zero W 
 ## Data Generator
-Takyo generates the following data for Classification.
-The actual data is in rlog1.csv.
+Takyo generates the following input data for Classification. (rlog1.csv)
 * org     - The original sensor hit
 * compss  - Current compass reading
 * pitch   - Pitch
@@ -50,9 +49,17 @@ Compass headings are inaccurate indoors. Mapping is possible outdoors where the 
 ## Video
 [Takyo on Youtube](https://www.youtube.com/watch?v=0TxFcdLs24w)
 
+## Snapshot
+![Training Epochs](Takyo figure1.png)
+
+![Confusion Matrix](Takyo figure2.png)
+
+
+
 ## Reference
 Takyo_classification.ipynb Jupyter notebook was used for Classification and contains the testing results. This is not an interactive notebook.
 ![Takyo_classification.ipynb](https://github.com/zeusthedrone/Takyo/blob/main/Takyo_classification.ipynb)
+
 
 ## Conclusion
 "Shadowing" robotics can be done on a small scale. Computer logic can be replaced by an AI model.
