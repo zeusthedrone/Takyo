@@ -1,7 +1,9 @@
-# Takyo
+# Takyo 
 ![Takyo](takyo.jpg)
 
-Takyo creates training data using programming logic statements. Output sensor data is trained and validated using Tensorflow. When the trained model is loaded back to Takyo decisions are made based on inference rather than programming logic.
+Takyo creates training data with traditional programming logic. Output sensor data is uploaded to a larger computer and trained and validated using Tensorflow. When the trained model is loaded back to Takyo decisions are made based on inference rather than programming logic.
+
+This paper demonstrates small scale machine learning on minimal processors. The output is a TensorFlow lite model that runs on small rovers.
 
 ## Sensors
 * Ultrasonic Sensor            - MB1040
@@ -45,7 +47,7 @@ A classification network is configured to determine which way the robot should t
 "Clear to Go" or "CTG" is an event that happens when no sensors are hit for some period of time 10-20 seconds. This can also be considered a "reward" in training, or good behaviour.
 
 ## Observations
-Actual predictions ranged from 92-98% in 30-50 epochs. The model may be overfitting too early. More data would improve accuracy. Though I tried to predict dturn or "turn delay time" using regression, it failed. A more complete model would predict both the direction to turn and the turn arc in degrees.
+Actual predictions ranged from 92-98% in 30-50 epochs. More data would improve accuracy. Though I tried to predict dturn or "turn delay time" using regression, it failed. A more complete model would predict both the direction to turn and the turn arc in degrees.
 
 Compass headings are inaccurate indoors. Mapping is possible outdoors where the compass works normally. 
 
