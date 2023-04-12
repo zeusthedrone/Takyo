@@ -54,8 +54,8 @@ Compass headings are inaccurate indoors. Mapping is possible outdoors where the 
 ## Video
 [Takyo on Youtube](https://www.youtube.com/watch?v=0TxFcdLs24w)
 
-## Reference
-READ THE NOTEBOOK! READ THE NOTEBOOK! Takyo.ipynb Jupyter notebook was used for Classification and contains the testing results. This is a read only notebook.
+## Jupyter Notebook
+READ THE NOTEBOOK! Takyo.ipynb Jupyter notebook was used for Classification and contains the testing results. This is a read only notebook.
 ![Takyo.ipynb](https://github.com/zeusthedrone/Takyo/blob/main/Takyo.ipynb)
 
 ## Training Snapshot
@@ -69,6 +69,11 @@ READ THE NOTEBOOK! READ THE NOTEBOOK! Takyo.ipynb Jupyter notebook was used for 
 
 When the AI model is loaded on a subsequent machine there would be no need for programming logic.
 Classification outputs are tied directly to motor actions. The machine is thinking, through inference.
+
+## TensorFlow Documentation
+[TensorFlow TinyML](https://blog.tensorflow.org/2019/11/how-to-get-started-with-machine.html)
+
+
 
 
 
