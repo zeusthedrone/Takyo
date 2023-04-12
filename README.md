@@ -56,7 +56,7 @@ Compass headings are inaccurate indoors. Mapping is possible outdoors where the 
 
 ## Reference
 READ THE NOTEBOOK! READ THE NOTEBOOK! Takyo.ipynb Jupyter notebook was used for Classification and contains the testing results. This is a read only notebook.
-![Takyo_classification.ipynb](https://github.com/zeusthedrone/Takyo/blob/main/Takyo.ipynb)
+![Takyo.ipynb](https://github.com/zeusthedrone/Takyo/blob/main/Takyo.ipynb)
 
 ## Training Snapshot
 ![Training Epochs](takyofig1.jpg)
