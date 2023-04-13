@@ -15,6 +15,7 @@ This paper demonstrates small scale machine learning on minimal processors. The 
 * Raspberry Pi Zero W 
 ## 3d Printing
 ![Takyo](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/front.png)
+![Takyo](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/rear.png)
  
 ## Data Generator
 Takyo generates the following input data for Classification. (rlog1.csv)
