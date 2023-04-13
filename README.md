@@ -14,7 +14,7 @@ This paper demonstrates small scale machine learning on minimal processors. The 
 * Arduino Nano
 * Raspberry Pi Zero W 
 ## 3d Printing
-![Takyo](3D Print/front.png)
+![Takyo](/3D Print/front.png)
  
 ## Data Generator
 Takyo generates the following input data for Classification. (rlog1.csv)
