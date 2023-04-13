@@ -14,10 +14,12 @@ This paper demonstrates small scale machine learning on minimal processors. The 
 * Arduino Nano
 * Raspberry Pi Zero W 
 ## 3d Printing
-Printed in PETG on Prusa MK3 at denhac.org. More images are in the 3d_Print directory.
+Printed in PETG on Prusa MK3 at denhac.org.  
 
 ![Takyo](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/front.png)
 ![Takyo](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/rear.png)
+
+More Images ![Takyo](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/README.md)
 
 ## Data Generator
 Takyo generates the following input data for Classification. (rlog1.csv)
