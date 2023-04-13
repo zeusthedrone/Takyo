@@ -19,6 +19,8 @@ Printed in PETG on Prusa MK3 at denhac.org.
 ![front](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/front.png)
 ![rear](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/rear.png)
 
+The chain and gears are 3d printed to fit on a Tamiya Double Gear Box. The chain is coated with Plasti-Dip.
+
 ![More 3d Images >>](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/README.md)
 
 ## Data Generator
