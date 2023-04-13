@@ -15,6 +15,7 @@ This paper demonstrates small scale machine learning on minimal processors. The 
 * Raspberry Pi Zero W 
 ## 3d Printing
 Printed in PETG on Prusa MK3 at denhac.org. More images are in the 3d_Print directory.
+
 ![Takyo](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/front.png)
 ![Takyo](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/rear.png)
 
