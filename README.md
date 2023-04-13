@@ -19,7 +19,7 @@ Printed in PETG on Prusa MK3 at denhac.org.
 ![front](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/front.png)
 ![rear](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/rear.png)
 
-![More Images >>](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/README.md)
+![More 3d Images >>](https://github.com/zeusthedrone/Takyo/blob/main/3d_Print/README.md)
 
 ## Data Generator
 Takyo generates the following input data for Classification. (rlog1.csv)
